@@ -1,0 +1,62 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	font-family: 'Montseratt', sans-serif;
+	background: url(CompassImg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+/*.container {
+	width: 100%;
+	height: 100%;
+}*/
+
+/*.row {
+	width: 100%;
+	height: 100%;
+}*/
+
+
+h1 {
+	font-size: 3 rem;
+	color: #F0E4D2;
+	padding-bottom: 20px;
+}
+
+h2 {
+	font-size: 2 rem;
+	color: #F0E4D2; 
+	text-transform: uppercase;
+	padding-bottom: 20px;
+}
+
+hr {
+    margin: 10px auto;
+    color: #F0E4D2;
+    border: 3px solid #F0E4D2;
+    max-width: 65px;
+    opacity: 1;  
+}
+
+.btn {
+	font-weight: 700;
+	color: #F0E4D2;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-outline-secondary {
+	border-color: #F0E4D2;
+}
+
+.btn-outline-secondary:hover {
+	border-width: 4px; 
+}
+
+.btn-xl {
+	padding: 15px 15px;
+}
+
